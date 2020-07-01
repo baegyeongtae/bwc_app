@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/BCC</item>
+        <item name="android:colorPrimary">@color/BCC</item>
+        <item name="android:colorPrimaryDark">@color/BCCDark</item>
+    </style>
+</resources>

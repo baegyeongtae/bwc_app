@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="BCC">#020202</color>
+    <color name="BCCDark">#010101</color>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/BCC</item>
+    </style>
+
+</resources>
